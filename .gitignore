@@ -2,8 +2,8 @@
 .mbed
 projectfiles
 *.py*
-mbed-os
+mbed-os*
 BUILD
-MPU6050/.hg/*
-libxdot
+MPU6050/.hg
+libxdot*
 
